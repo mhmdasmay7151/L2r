@@ -1,3 +1,0 @@
-Contact: mailto:security@example.com
-Preferred-Languages: en
-Policy: ./SECURITY.md
