@@ -8,7 +8,7 @@
 | <1.0    | End-of-life |
 
 ## Reporting a Vulnerability
-Do **not** open public issues. Contact: security@example.com
+Do **not** open public issues. Contact: https://irradi.ato.rs
 
 ## Coordinated Disclosure
 Default 90 days unless actively exploited.
